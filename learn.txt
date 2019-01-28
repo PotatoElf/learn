@@ -2,6 +2,6 @@ This is a txt file.
 Now, this is in work branch.
 Checkout to dev branch.
 
-Add a line into dev branch.
-Add a new line into dev branch.
+Add a line into master branch.
+Add a new line into master branch.
 
