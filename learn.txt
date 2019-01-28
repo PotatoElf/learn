@@ -1,7 +1,7 @@
 This is a txt file.
 Now, this is in work branch.
 Checkout to dev branch.
-
+i
 Add a line into dev branch.
 Add a new line into dev branch.
 
@@ -10,4 +10,5 @@ Add a new line into dev branch.
 3
 4
 5
+8
 
